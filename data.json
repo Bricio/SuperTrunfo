@@ -1,0 +1,134 @@
+[
+    {
+        "id": "0001",
+        "name": "estelar x1",
+        "type": { "main": { "name": "Exploração", "color": "#3498db" } },
+        "velocidade": "45.000 km/s",
+        "tripulantes": "5",
+        "lancamento": "12/05/2102",
+        "aceleracao": "150 m/s²",
+        "armas": "2",
+        "armazenamento": "500 toneladas"
+    },
+    {
+        "id": "0002",
+        "name": "caçadora de orion",
+        "type": { "main": { "name": "Combate", "color": "#e74c3c" } },
+        "velocidade": "62.000 km/s",
+        "tripulantes": "2",
+        "lancamento": "30/08/2115",
+        "aceleracao": "400 m/s²",
+        "armas": "12",
+        "armazenamento": "50 toneladas"
+    },
+    {
+        "id": "0003",
+        "name": "cargueiro titan",
+        "type": { "main": { "name": "Transporte", "color": "#f1c40f" } },
+        "velocidade": "12.000 km/s",
+        "tripulantes": "20",
+        "lancamento": "15/01/2108",
+        "aceleracao": "20 m/s²",
+        "armas": "4",
+        "armazenamento": "10.000 toneladas"
+    },
+    {
+        "id": "0004",
+        "name": "sombra do vácuo",
+        "type": { "main": { "name": "Furtiva", "color": "#9b59b6" } },
+        "velocidade": "55.000 km/s",
+        "tripulantes": "3",
+        "lancamento": "22/11/2120",
+        "aceleracao": "350 m/s²",
+        "armas": "6",
+        "armazenamento": "80 toneladas"
+    },
+    {
+        "id": "0005",
+        "name": "arca de gaia",
+        "type": { "main": { "name": "Colonial", "color": "#2ecc71" } },
+        "velocidade": "8.000 km/s",
+        "tripulantes": "1.500",
+        "lancamento": "01/01/2150",
+        "aceleracao": "5 m/s²",
+        "armas": "0",
+        "armazenamento": "50.000 toneladas"
+    },
+    {
+        "id": "0006",
+        "name": "interceptadora nebula",
+        "type": { "main": { "name": "Combate", "color": "#e74c3c" } },
+        "velocidade": "70.000 km/s",
+        "tripulantes": "1",
+        "lancamento": "14/02/2110",
+        "aceleracao": "500 m/s²",
+        "armas": "8",
+        "armazenamento": "20 toneladas"
+    },
+    {
+        "id": "0007",
+        "name": "buscadora de hélio",
+        "type": { "main": { "name": "Mineração", "color": "#e67e22" } },
+        "velocidade": "15.000 km/s",
+        "tripulantes": "12",
+        "lancamento": "05/09/2105",
+        "aceleracao": "45 m/s²",
+        "armas": "2",
+        "armazenamento": "2.500 toneladas"
+    },
+    {
+        "id": "0008",
+        "name": "sentinela de ferro",
+        "type": { "main": { "name": "Defesa", "color": "#95a5a6" } },
+        "velocidade": "25.000 km/s",
+        "tripulantes": "50",
+        "lancamento": "19/07/2132",
+        "aceleracao": "80 m/s²",
+        "armas": "24",
+        "armazenamento": "1.000 toneladas"
+    },
+    {
+        "id": "0009",
+        "name": "cometa veloz",
+        "type": { "main": { "name": "Corrida", "color": "#f39c12" } },
+        "velocidade": "95.000 km/s",
+        "tripulantes": "1",
+        "lancamento": "10/10/2144",
+        "aceleracao": "850 m/s²",
+        "armas": "0",
+        "armazenamento": "5 toneladas"
+    },
+    {
+        "id": "0010",
+        "name": "estação móvel zen",
+        "type": { "main": { "name": "Científica", "color": "#1abc9c" } },
+        "velocidade": "5.000 km/s",
+        "tripulantes": "200",
+        "lancamento": "03/03/2125",
+        "aceleracao": "10 m/s²",
+        "armas": "2",
+        "armazenamento": "3.000 toneladas"
+    },
+    {
+        "id": "0011",
+        "name": "predadora alfa",
+        "type": { "main": { "name": "Combate", "color": "#e74c3c" } },
+        "velocidade": "65.000 km/s",
+        "tripulantes": "4",
+        "lancamento": "11/11/2111",
+        "aceleracao": "420 m/s²",
+        "armas": "16",
+        "armazenamento": "120 toneladas"
+    },
+    {
+        "id": "0012",
+        "name": "exploradora de fendas",
+        "type": { "main": { "name": "Exploração", "color": "#3498db" } },
+        "velocidade": "40.000 km/s",
+        "tripulantes": "8",
+        "lancamento": "25/12/2101",
+        "aceleracao": "180 m/s²",
+        "armas": "4",
+        "armazenamento": "600 toneladas"
+    }
+]
