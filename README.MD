@@ -67,7 +67,7 @@ O arquivo `data.json` deve estar na raiz e seguir este formato:
 
 ## ⚖️ Licença
 
-Este projeto é de código aberto e está licenciado sob a **Licença MIT**. Você é livre para modificar, distribuir e utilizar para fins comerciais ou privados.
+Este projeto é de código aberto e está licenciado sob a **The Unlicense*. Você é livre para modificar, distribuir e utilizar para fins comerciais ou privados.
 
 ---
 *Gerado com suporte de Gemini 3 Flash.*
