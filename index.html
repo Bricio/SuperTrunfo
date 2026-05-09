@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Criador de Super Trunfo</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Gerador de Cartas Super Trunfo</h1>
+      <div id="setup-container">
+        <h3>Configurações da Carta</h3>
+        <p>Selecione quais atributos do JSON você deseja incluir nas cartas:</p>
+        <div id="attribute-selector">
+          <!-- Populado via JS -->
+        </div>
+        <button id="btn-generate">Gerar Cartas</button>
+      </div>
+    </header>
+
+    <div id="print-settings" class="setup-container">
+      <h3>Configurações de Impressão</h3>
+      <div class="print-controls">
+        <label
+          ><input type="checkbox" id="select-all" /> Selecionar Todas</label
+        >
+        |
+        <label
+          >Colunas: <input type="number" id="print-cols" value="4" min="1"
+        /></label>
+        <label
+          >Linhas: <input type="number" id="print-rows" value="3" min="1"
+        /></label>
+        <button id="btn-print" class="print-button">
+          Imprimir Selecionadas
+        </button>
+      </div>
+    </div>
+
+    <main id="deck-container">
+      <!-- Cartas com checkboxes aparecerão aqui -->
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
